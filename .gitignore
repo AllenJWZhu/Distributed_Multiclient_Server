@@ -1,0 +1,3 @@
+*.zip
+src/gameServer/gameServer
+src/gameServer/*/test.txt
