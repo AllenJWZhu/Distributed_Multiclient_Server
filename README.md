@@ -45,9 +45,7 @@ in a different terminal for each game player. Both of these commands initially h
 simply enters their text game commands into the terminal, pressing Enter/Return after each.  For example, the command 
 `HELLO playerOne` introduces a new player to the game server, and the server should respond with 
 `Welcome to Word Count playerOne! Do you want to create a new game or join an existing game?`, which will appear in the 
-terminal. If you want your game server to print anything to its terminal (which is very helpful), you'll need to program 
-it to do so.  However, as your game progresses, it might make sense to log server interactions to a file instead of the 
-terminal, as there's really a lot of stuff going on in the fully working game.
+terminal.
 
 ## Credits
 
