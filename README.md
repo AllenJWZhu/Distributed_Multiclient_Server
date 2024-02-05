@@ -33,13 +33,13 @@ more details about installing `go`, see [https://go.dev/doc/install](https://go.
 
 ### Testing the game server
 
-For example, to run a game server on port `14736` and connect multiple players, execute
+For example, to run a game server on port `15640` and connect multiple players, execute
 ```
-go run gameServer.go -port=localhost:14736
+go run gameServer.go -port=localhost:15640
 ```
 in one terminal and execute
 ```
-nc localhost 14736
+nc localhost 15640
 ```
 in a different terminal for each game player. Both of these commands initially hang with an empty terminal, and each player 
 simply enters their text game commands into the terminal, pressing Enter/Return after each.  For example, the command 
