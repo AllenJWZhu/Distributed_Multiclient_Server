@@ -52,7 +52,7 @@ terminal, as there's really a lot of stuff going on in the fully working game.
 ## Credits
 
 This project is the work of the following individuals:<br>
-Name: Yifan Lin, Jiawei Zhu
+Name: Allen Zhu, Ethan Lin, Patrick Samantis
 <br><br>
 # Framework of Server-Client Interaction
 ## Server's Core Functions:
