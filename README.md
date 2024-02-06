@@ -10,8 +10,7 @@ sudo apt install -y git make
 sudo snap install go --classic
 go env -w GO111MODULE=auto
 ```
-to start working on the lab. Everything else is controlled by `make` using the `go` command and shell scripts. For
-more details about installing `go`, see [https://go.dev/doc/install](https://go.dev/doc/install).
+For more details about installing `go`, see [https://go.dev/doc/install](https://go.dev/doc/install).
 
 
 ### Repository contents
