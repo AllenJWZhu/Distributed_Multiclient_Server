@@ -1,4 +1,4 @@
-# Overview
+# Distributed Multiclient Server
 ### Getting started
 
 To get started with this project, first you need to install Go:
